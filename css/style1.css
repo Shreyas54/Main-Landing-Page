@@ -246,7 +246,7 @@ img.d-block {
     left: 0;
 }
 
-@keyframes clients{
+/* @keyframes clients{
     0%{
         left: 0%;
     }
@@ -265,7 +265,7 @@ img.d-block {
     100%{
         left: -400%;
     }
-}
+} */
 
 /* Contact Section */
 #contact{
